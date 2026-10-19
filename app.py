@@ -407,4 +407,4 @@ elif nav_selection == "Settings":
 
 # ---------------- FOOTER ----------------
 st.markdown("---")
-st.caption("Retail Sales Business Analytics Dashboard • Built with Python, Pandas, Plotly & Streamlit")
+st.caption("Retail Sales Business Analytics Dashboard • Built with Python, Pandas, Plotly & Streamlit") 
